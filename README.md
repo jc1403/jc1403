@@ -29,7 +29,7 @@
       font-weight: bold;
     }
     .hero {
-      background: url('https://images.unsplash.com/photo-1521334884684-d80222895322') center/cover no-repeat;
+      background: url('https://www.makvac.com/') center/cover no-repeat;
       height: 80vh;
       display: flex;
       align-items: center;
