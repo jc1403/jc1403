@@ -3,7 +3,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>The JC Shop | Menswear & Jewelry</title>
-  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+  <link href="[https://fonts.googleapis.com](https://www.makvac.com/)/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
   <style>
     body {
       margin: 0;
@@ -169,14 +169,14 @@
     <h2>Menswear Collection</h2>
     <div class="products">
       <div class="product-card">
-        <img src="https://images.unsplash.com/photo-1618354691261-7524151a4901" alt="T-shirt">
+        <img src="[https://images.unsplash.com/photo-1618354691261-7524151a4901](https://www.makvac.com/product-page/sukuna-oversized-tee)" alt="T-shirt">
         <h3>Classic T-Shirt</h3>
         <p>$24.99</p>
         <button onclick="addToCart('Classic T-Shirt')">Add to Cart</button>
         <button onclick="addToWishlist('Classic T-Shirt')">Add to Wishlist</button>
       </div>
       <div class="product-card">
-        <img src="https://images.unsplash.com/photo-1602810313325-6fd2d03eec6d" alt="Jacket">
+        <img src="[https://images.unsplash.com/photo-1602810313325-6fd2d03eec6d](https://www.makvac.com/product-page/zoro-oversized-tee)" alt="Jacket">
         <h3>Urban Jacket</h3>
         <p>$69.99</p>
         <button onclick="addToCart('Urban Jacket')">Add to Cart</button>
